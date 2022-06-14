@@ -1,0 +1,10 @@
+C:\Users\TOURE BEN DAOUDA\source\repos\DataGrid\DataGrid\bin\Debug\DataGrid.exe.config
+C:\Users\TOURE BEN DAOUDA\source\repos\DataGrid\DataGrid\bin\Debug\DataGrid.exe
+C:\Users\TOURE BEN DAOUDA\source\repos\DataGrid\DataGrid\bin\Debug\DataGrid.pdb
+C:\Users\TOURE BEN DAOUDA\source\repos\DataGrid\DataGrid\obj\Debug\DataGrid.csprojAssemblyReference.cache
+C:\Users\TOURE BEN DAOUDA\source\repos\DataGrid\DataGrid\obj\Debug\DataGrid.Form1.resources
+C:\Users\TOURE BEN DAOUDA\source\repos\DataGrid\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+C:\Users\TOURE BEN DAOUDA\source\repos\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.cache
+C:\Users\TOURE BEN DAOUDA\source\repos\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\TOURE BEN DAOUDA\source\repos\DataGrid\DataGrid\obj\Debug\DataGrid.exe
+C:\Users\TOURE BEN DAOUDA\source\repos\DataGrid\DataGrid\obj\Debug\DataGrid.pdb
